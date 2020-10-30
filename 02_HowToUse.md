@@ -83,3 +83,4 @@ times_を用いることも多く，基本的に使わない．
 
 ## 参考文献
 * [研究室（情報系）のSlackの紹介 - kengo700のナレッジベース](http://kengo700.hatenablog.com/entry/2016/02/25/%E7%A0%94%E7%A9%B6%E5%AE%A4%EF%BC%88%E6%83%85%E5%A0%B1%E7%B3%BB%EF%BC%89%E3%81%AESlack%E3%81%AE%E7%B4%B9%E4%BB%8B)
+* [Slackで「分報」を導入したらめっちゃ作業効率があがった｜北川レオ / Basecamp｜note](https://note.com/reoleo/n/n102308f5b4e3)
